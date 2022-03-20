@@ -9,7 +9,7 @@
 I am studying in the 2nd year of BSUIR. For the first time I sat down for programming in the 10th grade at the lyceum and then I fell in love with programming in c++, he was more easy to study than Pascal abts. I don't know why. In the 11th grade, I gave up because of exam preparation, but from time to time I wrote and so I entered the university and started studying c#
 
 ##
-**Skills and Proficiency: **
+**Code example**
 
 *⋅HTML&CSS;*
 *⋅JavaScript;*
