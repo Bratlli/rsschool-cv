@@ -2,6 +2,7 @@
 
 **Contact information:**
 **e-mail:** fgggggrjyt@gmail.com
+
  [Telegram](t.me/Bratlli)
 
 ##
@@ -12,8 +13,11 @@ I am studying in the 2nd year of BSUIR. For the first time I sat down for progra
 **Code example**
 
 *⋅HTML&CSS;*
+
 *⋅JavaScript;*
+
 *⋅C#, C++;*
+
 *⋅Git*
 
 ##
